@@ -1,0 +1,25 @@
+@media (max-width: 768px) {
+    .ableton-img{
+
+    width: 150px;
+    height: 35px;
+    margin-left: -80px;
+    margin-top: 40px;
+    }
+
+    .flex-footer-contanier{
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .sub-footer-flex{
+        flex-direction: column;
+    }
+    .feature-flex{
+        flex-direction: column;
+    }
+    .feature-below-section{
+        padding-block: 30px;
+    }
+} 
+
