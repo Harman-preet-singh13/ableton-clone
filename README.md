@@ -4,6 +4,8 @@ This is a website template that serves as a replica of the Ableton website. It w
 The template has been designed to be fully responsive, adapting seamlessly to different screen sizes. During the process of creating this template,
 I gained a comprehensive understanding of flex layouts, responsive image techniques, and Bootstrap framework.
 
+Live website: https://harman-preet-singh13.github.io/ableton-clone/
+
 Here are some screenshots
 ![Screenshot](https://github.com/Harman-preet-singh13/ableton-clone/assets/63332289/2f4dea7c-6d3e-407a-b56e-3fd9f2a1412d)
 ![Screenshot_1](https://github.com/Harman-preet-singh13/ableton-clone/assets/63332289/fcb8ef56-db38-42e4-98fc-8afc694698d1)
